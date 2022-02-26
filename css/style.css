@@ -107,14 +107,14 @@ nav .nav-links li.active {
     top: 35px;
     background: #7EB685;
     border-radius: 41.472px;
-  justify-content: center;
-  cursor: pointer;
+    justify-content: center;
+    cursor: pointer;
 }
 
 .signup p{
     position: static;
     font-style: normal;
-    font-weight: normal;
+    font-weight: bold;
     font-size: 18px;
     line-height: 21px;
     color: #FFFFFF;
@@ -191,7 +191,7 @@ section {
     border-radius: 45.3611px;
     font-style: normal;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 32px;
     color: #FFFFFF;
     margin-top: 25rem;
