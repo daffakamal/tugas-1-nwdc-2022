@@ -1,2 +1,2 @@
 # tugas-1-nwdc-2022
-Landing Page for Exercise
+Build a landing page with HTML and CSS (not responsive)
