@@ -1,2 +1,2 @@
 # tugas-1-nwdc-2022
-Creating a landing page with HTML and CSS (not responsive)
+A landing page build with HTML and CSS (not yet responsive)
